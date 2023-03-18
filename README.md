@@ -8,6 +8,9 @@
   <a href="https://t.me/liza_petkova">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://hh.ru/resume/059f8505ff0bcf88300039ed1f646338355a77">
+    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=hh&logoColor=white" alt="Резюме"/>
+  </a>
 </div>
 
 <div id="counter" align="center">

@@ -1,27 +1,15 @@
-<div id="header" align="center">
-	<h1>Привет, меня зовут Лиза</h1>
-	<h3>Начинающий frontend разработчик из Санкт-Петербурга</h3>
-  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
-</div>
+### Привет, меня зовут Лиза :wave:
+Начинающий frontend разработчик из Санкт-Петербурга
+<img align="right" src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 
-<div id="social" align="center">
-  <a href="https://t.me/liza_petkova">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://hh.ru/resume/059f8505ff0bcf88300039ed1f646338355a77">
-    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=hh&logoColor=white" alt="Резюме"/>
-  </a>
-</div>
-
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=lizapetkova&style=flat-square&color=blue" alt="Просмотры профиля"/>
-</div>
+---
 
 ### About me
 
-- 📝 5 лет работала project-менеджером и решила перейти во frontend разработку
-- 🌱 Учусь в Я.Практикуме
-- 📫 [Моя электронная почта](mailto:lizapetkova@yandex.ru)
+- :chart_with_upwards_trend: 5 лет работала project-менеджером и решила заняться разработкой
+- :seedling: Учусь в Яндекс. Практикуме
+- :mailbox_closed: [Моя электронная почта](mailto:lizapetkova@yandex.ru)
+- :incoming_envelope: <a href="https://t.me/liza_petkova">Мой телеграм</a> 
 
 ---
 

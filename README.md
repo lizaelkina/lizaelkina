@@ -7,7 +7,7 @@
 ### About me
 
 - :chart_with_upwards_trend: 5 лет работала project менеджером IT и решила сама писать код
-- :seedling: Окончика Яндекс Практикум
+- :seedling: Окончила Яндекс Практикум
 - :mailbox_closed: [Моя электронная почта](mailto:lizapetkova@yandex.ru)
 - :incoming_envelope: <a href="https://t.me/liza_petkova">Мой телеграм</a> 
 

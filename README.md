@@ -38,7 +38,7 @@
 
 ### My stat
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizaelkina&theme=transparent"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lizaelkina&theme=transparent"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lizaelkina&theme=transparent"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizaelkina&theme=dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lizaelkina&theme=dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lizaelkina&theme=dark"/>
 </div>

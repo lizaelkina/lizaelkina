@@ -8,8 +8,8 @@
 
 - :chart_with_upwards_trend: 5 лет работала project менеджером IT и решила сама писать код
 - :seedling: Окончила Яндекс Практикум
-- :mailbox_closed: [Моя электронная почта](mailto:lizapetkova@yandex.ru)
-- :incoming_envelope: <a href="https://t.me/liza_petkova">Мой телеграм</a> 
+- :mailbox_closed: [Моя электронная почта](mailto:me@lizaelkina.ru)
+- :incoming_envelope: <a href="https://t.me/lizaelkina">Мой телеграм</a> 
 
 ---
 
@@ -38,7 +38,7 @@
 
 ### My stat
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizapetkova&theme=transparent"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lizapetkova&theme=transparent"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lizapetkova&theme=transparent"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizaelkina&theme=transparent"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lizaelkina&theme=transparent"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lizaelkina&theme=transparent"/>
 </div>

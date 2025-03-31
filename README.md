@@ -29,8 +29,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" title="gulp" width="30" height="30"/>&nbsp;
 <img src="https://cdn.rawgit.com/pugjs/pug-logo/eec436cee8fd9d1726d7839cbe99d1f694692c0c/SVG/pug-final-logo-_-colour-128.svg" title="pug" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="jest" width="30" height="30"/>&nbsp;
-<img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" title="cypress" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" title="cypress" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" title="webstorm" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="postman" width="30" height="30"/>&nbsp;         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" title="confluence" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="30" height="30"/>&nbsp;

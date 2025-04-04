@@ -15,7 +15,7 @@
 
 ### Languages and tools
 
-<div class="icons" max-width="100px">
+<div class="icons">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angular" width="30" height="30"/>

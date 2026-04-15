@@ -15,7 +15,7 @@
 
 ### Languages and tools
 
-<div class="icons">
+<div id="icons">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" title="html" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" title="css" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="scss" width="30" height="30"/>&nbsp;
@@ -37,11 +37,4 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain.svg" title="confluence" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="30" height="30"/>&nbsp;
-</div>
-
----    
-
-### My stat
-<div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizaelkina&theme=transparent"/>
 </div>

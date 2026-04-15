@@ -15,7 +15,7 @@
 
 ### Languages and tools
 
-<div id="icons">
+<div style="dispay: flex; flex-wrap: wrap;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" title="html" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" title="css" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="scss" width="30" height="30"/>&nbsp;

@@ -1,5 +1,5 @@
 ### Привет, меня зовут Лиза :wave:
-Начинающий frontend разработчик из Санкт-Петербурга
+Начинающий frontend-разработчик из Санкт-Петербурга
 <img align="right" src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 
 ---

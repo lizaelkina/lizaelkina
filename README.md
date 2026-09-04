@@ -6,7 +6,7 @@
 
 ### About me
 
-- :chart_with_upwards_trend: 5 лет работала project менеджером IT и решила сама писать код
+- :chart_with_upwards_trend: 5 лет работала project менеджером и решила сама писать код
 - :seedling: Окончила Яндекс Практикум
 - :mailbox_closed: [Моя электронная почта](mailto:me@lizaelkina.ru)
 - :incoming_envelope: <a href="https://t.me/lizaelkina">Мой телеграм</a> 
